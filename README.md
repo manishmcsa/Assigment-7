@@ -17,6 +17,6 @@ Optimizer: SGD
 Batch Size: 64
 Learning Rate: 0.01
 Dropout: 0.15
-Epochs: 50
+Epochs: 20
 
 
